@@ -139,3 +139,95 @@ Digital Root of n = 1 + ((n - 1) % 9)
 4. Use digital root for quick checking.
 
 ---
+
+---
+
+### 🔢 **1. Divisibility Rule Example**
+
+**Q.** Is 738 divisible by 3?
+**A.** Sum of digits = 7 + 3 + 8 = 18 → 18 is divisible by 3
+✅ **Yes, 738 is divisible by 3**
+
+---
+
+### 🧮 **2. HCF and LCM**
+
+**Q.** Find HCF and LCM of 12 and 18.
+**A.**
+
+* Factors of 12: 1, 2, 3, 4, 6, 12
+* Factors of 18: 1, 2, 3, 6, 9, 18
+* HCF = 6
+* LCM = (12 × 18) / 6 = 216 / 6 = 36
+  ✅ **HCF = 6, LCM = 36**
+
+---
+
+### 🔁 **3. Remainder Rule**
+
+**Q.** Find remainder when (28 × 37) is divided by 5.
+**A.**
+
+* 28 % 5 = 3, 37 % 5 = 2
+* (3 × 2) % 5 = 6 % 5 = **1**
+  ✅ **Remainder = 1**
+
+---
+
+### 🧠 **4. Trailing Zeros**
+
+**Q.** How many zeros are at the end of 100!
+**A.**
+100 ÷ 5 = 20, 100 ÷ 25 = 4
+→ Total zeros = 20 + 4 = **24**
+✅ **Answer: 24 zeros**
+
+---
+
+### 🧰 **5. Unit Digit of Power**
+
+**Q.** What is the unit digit of 7^45?
+**A.**
+Cycle of 7: 7, 9, 3, 1 → Length = 4
+45 % 4 = 1 → First element = 7
+✅ **Unit digit = 7**
+
+---
+
+### 🔣 **6. Perfect Number**
+
+**Q.** Is 28 a perfect number?
+**A.** Divisors of 28 (excluding 28) = 1 + 2 + 4 + 7 + 14 = 28
+✅ **Yes, 28 is a perfect number**
+
+---
+
+### 🔄 **7. Sum of Natural Numbers**
+
+**Q.** Find the sum of first 10 natural numbers.
+**A.**
+\= 10 × (10 + 1) / 2 = 55
+✅ **Answer: 55**
+
+---
+
+### 🧾 **8. Digital Root**
+
+**Q.** Find the digital root of 9876
+**A.**
+9 + 8 + 7 + 6 = 30 → 3 + 0 = 3
+✅ **Digital Root = 3**
+
+---
+
+### 📌 **9. Special Trick**
+
+**Q.** Prove that 25² – 1 is divisible by 8
+**A.**
+25² – 1 = 625 – 1 = 624
+624 ÷ 8 = 78
+✅ **Yes, it is divisible by 8**
+
+---
+
+

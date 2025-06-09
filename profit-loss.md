@@ -1,7 +1,7 @@
-## 💰 Profit and Loss – Formulas & Shortcuts (Aptitude)
+## Profit and Loss – Formulas & Shortcuts (Aptitude)
 ---
 
-### ✅ **Basic Terms**
+### **Basic Terms**
 
 | Term                  | Meaning                                        |
 | --------------------- | ---------------------------------------------- |
@@ -14,39 +14,39 @@
 
 ---
 
-## 📘 **Key Formulas**
+## **Key Formulas**
 
 ---
 
-### ✅ **1. Profit or Loss Calculation**
+### **1. Profit or Loss Calculation**
 
 * **Profit = SP – CP**
 * **Loss = CP – SP**
 
 ---
 
-### ✅ **2. Profit or Loss Percentage**
+### **2. Profit or Loss Percentage**
 
 * **Profit% =** $\frac{\text{Profit}}{\text{CP}} \times 100$
 * **Loss% =** $\frac{\text{Loss}}{\text{CP}} \times 100$
 
 ---
 
-### ✅ **3. Selling Price (SP)**
+### **3. Selling Price (SP)**
 
 * **SP = CP × $\left(1 + \frac{\text{Profit%}}{100} \right)$**
 * **SP = CP × $\left(1 - \frac{\text{Loss%}}{100} \right)$**
 
 ---
 
-### ✅ **4. Cost Price (CP)**
+### **4. Cost Price (CP)**
 
 * **CP = SP ÷ $\left(1 + \frac{\text{Profit%}}{100} \right)$**
-* **CP = SP ÷ $\left(1 - \frac{\text{Loss%}}{100}$**
+* **CP = SP ÷ $\left(1 - \frac{\text{Loss%}}{100} \right)$**
 
 ---
 
-### ✅ **5. Marked Price and Discount**
+### **5. Marked Price and Discount**
 
 * **Discount = Marked Price – SP**
 * **Discount% = $\frac{\text{Discount}}{\text{Marked Price}} \times 100$**
@@ -54,14 +54,14 @@
 
 ---
 
-### ✅ **6. Successive Discounts**
+### **6. Successive Discounts**
 
 If two discounts are given: `d1%` and `d2%`, then
 **Net Discount% = d1 + d2 – (d1 × d2) / 100**
 
 ---
 
-### ✅ **7. Profit% When Discount Is Given**
+### **7. Profit% When Discount Is Given**
 
 If shopkeeper gives **x% discount** but still makes **y% profit**, then:
 
@@ -69,7 +69,7 @@ If shopkeeper gives **x% discount** but still makes **y% profit**, then:
 
 ---
 
-### ✅ **8. If Selling Price of Two Items is Same, One at Gain%, Other at Loss%**
+### **8. If Selling Price of Two Items is Same, One at Gain%, Other at Loss%**
 
 * **Net % Loss =** $\frac{(Gain\% - Loss\%)^2}{200}$
 
@@ -77,26 +77,26 @@ If shopkeeper gives **x% discount** but still makes **y% profit**, then:
 
 ---
 
-### ✅ **9. Profit/Loss on Total Transaction**
+### **9. Profit/Loss on Total Transaction**
 
 * If a person sells 2 items at same **SP**, one at **x% gain** and one at **x% loss**,
   then **net loss = x² / 100**
 
 ---
 
-### ✅ **10. When CP of Two Items is Same, One Sold at x% Profit, Other at x% Loss**
+### **10. When CP of Two Items is Same, One Sold at x% Profit, Other at x% Loss**
 
 * **Net result = No gain, no loss**
 
 ---
 
-### ✅ **11. False Weight Formula**
+### **11. False Weight Formula**
 
 If a trader uses weights **less by x%**, his **gain% = $\frac{x}{100 - x} × 100$**
 
 ---
 
-## 🧠 **Shortcut Tricks**
+## **Shortcut Tricks**
 
 1. **To quickly find CP or SP**, remember:
 
@@ -115,7 +115,7 @@ If a trader uses weights **less by x%**, his **gain% = $\frac{x}{100 - x} × 100
 
 ---
 
-### 🧾 **Example**
+### **Example**
 
 **Q.** A man buys an article for ₹100 and sells it for ₹120. Find profit%?
 **A.**
@@ -132,70 +132,70 @@ CP = 400 / 1.25 = **₹320**
 ---
 ---
 
-### ✅ **1. An article is bought for ₹250 and sold for ₹300. Find the profit and profit %.**
+### **1. An article is bought for ₹250 and sold for ₹300. Find the profit and profit %.**
 
 **Profit =** 300 – 250 = ₹50
 **Profit % =** (50 / 250) × 100 = **20%**
 
 ---
 
-### ✅ **2. An item is bought for ₹400 and sold for ₹320. Find the loss and loss %.**
+### **2. An item is bought for ₹400 and sold for ₹320. Find the loss and loss %.**
 
 **Loss =** 400 – 320 = ₹80
 **Loss % =** (80 / 400) × 100 = **20%**
 
 ---
 
-### ✅ **3. Selling price = ₹540, profit = 20%. Find cost price.**
+### **3. Selling price = ₹540, profit = 20%. Find cost price.**
 
 **CP =** 540 / 1.2 = **₹450**
 
 ---
 
-### ✅ **4. CP = ₹600, loss = 25%. Find SP.**
+### **4. CP = ₹600, loss = 25%. Find SP.**
 
 **SP =** 600 × (1 – 0.25) = **₹450**
 
 ---
 
-### ✅ **5. SP = ₹880, loss = 20%. Find CP.**
+### **5. SP = ₹880, loss = 20%. Find CP.**
 
 **CP =** 880 / 0.8 = **₹1100**
 
 ---
 
-### ✅ **6. Find SP to gain 15% on CP ₹200.**
+### **6. Find SP to gain 15% on CP ₹200.**
 
 **SP =** 200 × (1 + 0.15) = **₹230**
 
 ---
 
-### ✅ **7. If a shopkeeper marks an item at ₹1000 and gives a discount of 10%, what is the SP?**
+### **7. If a shopkeeper marks an item at ₹1000 and gives a discount of 10%, what is the SP?**
 
 **SP =** 1000 × (1 – 0.10) = **₹900**
 
 ---
 
-### ✅ **8. An item is sold at 25% profit. If its CP is ₹320, find the SP.**
+### **8. An item is sold at 25% profit. If its CP is ₹320, find the SP.**
 
 **SP =** 320 × (1 + 0.25) = **₹400**
 
 ---
 
-### ✅ **9. A shopkeeper sells an item at 20% loss. CP = ₹500. Find SP.**
+### **9. A shopkeeper sells an item at 20% loss. CP = ₹500. Find SP.**
 
 **SP =** 500 × 0.8 = **₹400**
 
 ---
 
-### ✅ **10. If CP = ₹240 and SP = ₹300, find profit %**
+### **10. If CP = ₹240 and SP = ₹300, find profit %**
 
 **Profit =** ₹60
 **Profit % =** (60 / 240) × 100 = **25%**
 
 ---
 
-### ✅ **11. A trader sold an article at 10% profit. If CP = ₹600, find SP.**
+### **11. A trader sold an article at 10% profit. If CP = ₹600, find SP.**
 
 **SP =** 600 × 1.10 = **₹660**
 
